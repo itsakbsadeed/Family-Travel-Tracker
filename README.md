@@ -63,10 +63,10 @@ CREATE TABLE visited_countries (
    ```
    npm install
    ```
-3. Update the database configuration in `solution.js` with your PostgreSQL credentials
+3. Update the database configuration in `index.js` with your PostgreSQL credentials
 4. Start the application:
    ```
-   node solution.js
+   node index.js
    ```
 5. Open your browser and navigate to `http://localhost:3000`
 
